@@ -3,7 +3,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-This is a TypeScript specific fork of [phaser3-parcel-template](https://github.com/ourcade/phaser3-parcel-template).
+This is a TypeScript specific fork of [phaser3-parcel-template](https://github.com/ourcade/phaser3-parcel-template) with some added default folders.
 
 ## Prerequisites
 
