@@ -46,7 +46,7 @@ git clone https://github.com/shouryan01/phaser-typescript-game-template.git my-f
 Go into your new project folder and install dependencies:
 
 ```bash
-cd phaser3-typescript-parcel-template # or 'my-folder-name'
+cd phaser-typescript-game-template # or 'my-folder-name'
 npm install
 ```
 
@@ -70,10 +70,10 @@ Production files will be placed in the `dist` folder. Then upload those files to
     .
     ├── dist
     ├── node_modules
-    ├── public
     ├── src
     │   ├── scenes
     │   │   ├── Game.ts
+    │   │   ├── GameOver.ts
     │   │   ├── HelloWorldScene.ts
     │   │   ├── Preloader.ts
     │   ├── index.html
