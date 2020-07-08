@@ -81,7 +81,7 @@ Production files will be placed in the `dist` folder. Then upload those files to
     ├── package.json
 ```
 
-The contents of this template is the basic [Phaser3 getting started example](http://phaser.io/tutorials/getting-started-phaser3/part5).
+The contents of this template is the basic [Phaser3 Getting Started Example](http://phaser.io/tutorials/getting-started-phaser3/part5).
 
 This template assumes you will want to organize your code into multiple files and use TypeScript.
 
