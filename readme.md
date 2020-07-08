@@ -3,7 +3,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-This is a TypeScript specific fork of [phaser3-parcel-template](https://github.com/ourcade/phaser3-parcel-template).
+This is a TypeScript specific fork of [phaser3-parcel-template](https://github.com/ourcade/phaser3-parcel-template) with some added default folders.
 
 ## Prerequisites
 
@@ -46,7 +46,7 @@ git clone https://github.com/shouryan01/phaser-typescript-game-template.git my-f
 Go into your new project folder and install dependencies:
 
 ```bash
-cd phaser3-typescript-parcel-template # or 'my-folder-name'
+cd phaser-typescript-game-template # or 'my-folder-name'
 npm install
 ```
 
@@ -70,10 +70,10 @@ Production files will be placed in the `dist` folder. Then upload those files to
     .
     ├── dist
     ├── node_modules
-    ├── public
     ├── src
     │   ├── scenes
     │   │   ├── Game.ts
+    │   │   ├── GameOver.ts
     │   │   ├── HelloWorldScene.ts
     │   │   ├── Preloader.ts
     │   ├── index.html
@@ -81,7 +81,7 @@ Production files will be placed in the `dist` folder. Then upload those files to
     ├── package.json
 ```
 
-The contents of this template is the basic [Phaser3 getting started example](http://phaser.io/tutorials/getting-started-phaser3/part5).
+The contents of this template is the basic [Phaser3 Getting Started Example](http://phaser.io/tutorials/getting-started-phaser3/part5).
 
 This template assumes you will want to organize your code into multiple files and use TypeScript.
 
